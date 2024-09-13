@@ -1,0 +1,184 @@
+{
+  "tabaccai": [
+    {
+      "ccomune": "Milano",
+      "cprovincia": "MI",
+      "cregione": "Lombardia",
+      "cnome": "Tabaccheria Centrale",
+      "canno_inserimento":"2018",
+      "clongitudine": "9.1913832",
+      "clatitudine": "45.464211"
+    },
+    {
+      "ccomune": "Milano",
+      "cprovincia": "MI",
+      "cregione": "Lombardia",
+      "cnome": "Tabaccheria La Scala",
+      "canno_inserimento":"2011",
+      "clongitudine":"9.189819",
+      "clatitudine": "45.467921"
+    },
+    {
+      "ccomune": "Milano",
+      "cprovincia": "MI",
+      "cregione": "Lombardia",
+      "cnome": "Tabaccheria Duomo",
+      "canno_inserimento":"2001",
+      "clongitudine": "9.192739",
+      "clatitudine": "45.464108"
+    },
+    {
+      "ccomune": "Roma",
+      "cprovincia": "RM",
+      "cregione": "Lazio",
+      "cnome": "Tabaccheria Colosseo",
+      "canno_inserimento":"2000",
+      "clongitudine": "12.492231",
+      "clatitudine": "41.890251"
+    },
+    {
+      "ccomune": "Roma",
+      "cprovincia": "RM",
+      "cregione": "Lazio",
+      "cnome": "Tabaccheria Vaticano",
+      "canno_inserimento":"2002",
+      "clongitudine": "12.453389",
+      "clatitudine": "41.902916"
+    },
+    {
+      "ccomune": "Torino",
+      "cprovincia": "TO",
+      "cregione": "Piemonte",
+      "cnome": "Tabaccheria Mole",
+      "canno_inserimento":"2003",
+      "clongitudine": "7.686856",
+      "clatitudine": "45.070312"
+    },
+    {
+      "ccomune": "Napoli",
+      "cprovincia": "NA",
+      "cregione": "Campania",
+      "cnome": "Tabaccheria Vesuvio",
+      "canno_inserimento":"2004",
+      "clongitudine": "14.26811",
+      "clatitudine": "40.851775"
+    },
+    {
+      "ccomune": "Firenze",
+      "cprovincia": "FI",
+      "cregione": "Toscana",
+      "cnome": "Tabaccheria Ponte Vecchio",
+      "canno_inserimento":"2005",
+      "clongitudine": "11.253123",
+      "clatitudine": "43.767736"
+    },
+    {
+      "ccomune": "Bologna",
+      "cprovincia": "BO",
+      "cregione": "Emilia-Romagna",
+      "cnome": "Tabaccheria Due Torri",
+      "canno_inserimento":"2006",
+      "clongitudine": "11.342616",
+      "clatitudine": "44.494887"
+    },
+    {
+      "ccomune": "Genova",
+      "cprovincia": "GE",
+      "cregione": "Liguria",
+      "cnome": "Tabaccheria Lanterna",
+      "canno_inserimento":"2007",
+      "clongitudine": "8.936935",
+      "clatitudine": "44.40565"
+    },
+    {
+      "ccomune": "Palermo",
+      "cprovincia": "PA",
+      "cregione": "Sicilia",
+      "cnome": "Tabaccheria Teatro Massimo",
+      "canno_inserimento":"2009",
+      "clongitudine": "13.355267",
+      "clatitudine": "38.115693"
+    },
+    {
+      "ccomune": "Catania",
+      "cprovincia": "CT",
+      "cregione": "Sicilia",
+      "cnome": "Tabaccheria Etna",
+      "canno_inserimento":"2021",
+      "clongitudine": "15.087269",
+      "clatitudine": "37.502235"
+    },
+    {
+      "ccomune": "Verona",
+      "cprovincia": "VR",
+      "cregione": "Veneto",
+      "cnome": "Tabaccheria Arena",
+      "canno_inserimento":"2021",
+      "clongitudine": "10.991622",
+      "clatitudine": "45.438384"
+    },
+    {
+      "ccomune": "Venezia",
+      "cprovincia": "VE",
+      "cregione": "Veneto",
+      "cnome": "Tabaccheria Rialto",
+      "canno_inserimento":"2011",
+      "clongitudine": "12.335896",
+      "clatitudine": "45.437921"
+    },
+    {
+      "ccomune": "Trieste",
+      "cprovincia": "TS",
+      "cregione": "Friuli-Venezia Giulia",
+      "cnome": "Tabaccheria Piazza Unità",
+      "canno_inserimento":"2011",
+      "clongitudine": "13.769737",
+      "clatitudine": "45.650033"
+    },
+    {
+      "ccomune": "Perugia",
+      "cprovincia": "PG",
+      "cregione": "Umbria",
+      "cnome": "Tabaccheria Fontana Maggiore",
+      "canno_inserimento":"1999",
+      "clongitudine": "12.390828",
+      "clatitudine": "43.112202"
+    },
+    {
+      "ccomune": "Ancona",
+      "cprovincia": "AN",
+      "cregione": "Marche",
+      "cnome": "Tabaccheria Conero",
+      "canno_inserimento":"1987",
+      "clongitudine": "13.518915",
+      "clatitudine": "43.61583"
+    },
+    {
+      "ccomune": "Lecce",
+      "cprovincia": "LE",
+      "cregione": "Puglia",
+      "cnome": "Tabaccheria Barocco",
+      "canno_inserimento":"1989",
+      "clongitudine": "18.169642",
+      "clatitudine": "40.351515"
+    },
+    {
+      "ccomune": "Cagliari",
+      "cprovincia": "CA",
+      "cregione": "Sardegna",
+      "cnome": "Tabaccheria Poetto",
+      "canno_inserimento":"1929",
+      "clongitudine": "9.135499",
+      "clatitudine": "39.215408"
+    },
+    {
+      "ccomune": "Trento",
+      "cprovincia": "TN",
+      "cregione": "Trentino-Alto Adige",
+      "cnome": "Tabaccheria Dolomiti",
+      "canno_inserimento":"1991",
+      "clongitudine": "11.121066",
+      "clatitudine": "46.066422"
+    }
+  ]
+}
